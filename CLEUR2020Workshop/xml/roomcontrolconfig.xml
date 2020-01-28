@@ -1,0 +1,21 @@
+<Extensions>
+  <Version>1.6</Version>
+  <Panel>
+    <PanelId>buttonRed</PanelId>
+    <Type>Home</Type>
+    <Icon>Lightbulb</Icon>
+    <Order>1</Order>
+    <Color>#FF503C</Color>
+    <Name>Red</Name>
+    <ActivityType>Custom</ActivityType>
+  </Panel>
+  <Panel>
+    <PanelId>buttonGreen</PanelId>
+    <Type>Home</Type>
+    <Icon>Lightbulb</Icon>
+    <Order>2</Order>
+    <Color>#30D557</Color>
+    <Name>Green</Name>
+    <ActivityType>Custom</ActivityType>
+  </Panel>
+</Extensions>
